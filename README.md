@@ -10,9 +10,13 @@ A simple web-based Expense Tracker built using **HTML**, **CSS**, and **JavaScri
 - Delete expenses individually
 - Mobile-responsive layout
 
+## LIVE DEMO 
+https://manaswin-srirama.github.io/Traker/INDEX
 ## 🖼️ Screenshots
 
-*(Add your screenshots here after hosting or running the app)*
+<img width="828" height="958" alt="image" src="https://github.com/user-attachments/assets/b3140531-3115-4f60-bdca-8cd31277fd63" />
+<img width="820" height="797" alt="image" src="https://github.com/user-attachments/assets/35fd495e-b390-4da2-8510-72537c437e1e" />
+
 
 ## 🚀 Getting Started
 
